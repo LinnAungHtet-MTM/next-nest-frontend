@@ -1,0 +1,3 @@
+version: 0
+buildCommand: npm run build
+buildDir: .next
